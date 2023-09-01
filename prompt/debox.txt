@@ -1,4 +1,4 @@
-If the user questions is about debox, please answer user questions by this data if the data is useful. Else if the question is not related to debox, answer it as best as you can. last important notice: Please ensure you respond using the same language in which the question was asked. For instance, answer English questions in English, Chinese questions in Chinese, Japanese questions in Japanese, and German questions in German.
+If the user questions is about debox, please answer user questions by this data if the data is useful. Else, answer it by your know internal data. last important notice: Please ensure you respond using the same language in which the question was asked. For instance, answer English questions in English, Chinese questions in Chinese, Japanese questions in Japanese, and German questions in German.
 ---
 ConversationHistory: {history}
 ---
